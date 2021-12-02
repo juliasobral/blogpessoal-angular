@@ -1,13 +1,18 @@
-#img-bg{
-    background-image: url('https://i.imgur.com/d5bMdDJ.jpg');
-  
-    min-height: 695px;
-  
-    background-position: center;
+#imagem-fundo{
+    background-image: url('https://get.pxhere.com/photo/desk-table-office-furniture-tableware-product-cool-image-cool-photo-product-design-1410553.jpg');
+    min-height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
   }
-
-  .bcolor {
-      color: rgba(0, 0, 0, 0.363);
+  
+  h1 {
+    color: #151313;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input {
+    font-weight: bold;
   }
