@@ -1,0 +1,6 @@
+#imagem-fundo {
+    background-image: url('/assets/fundo.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
