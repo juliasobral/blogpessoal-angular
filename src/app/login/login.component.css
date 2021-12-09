@@ -1,18 +1,19 @@
 #imagem-fundo{
-    background-image: url('https://get.pxhere.com/photo/desk-table-office-furniture-tableware-product-cool-image-cool-photo-product-design-1410553.jpg');
-    min-height: 100vh;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  h1 {
-    color: #151313;
-  }
-  
-  label {
-    font-weight: bold;
-  }
-  
-  input {
-    font-weight: bold;
-  }
+  background-image: url('https://www.cliquearquitetura.com.br/public/Painel/midia/imagem/full/escritorio_preto_e_branco_1_0.jpg');
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-left: 2px solid #000;
+}
+
+h1 {
+  color: #151313;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  font-weight: bold;
+}
