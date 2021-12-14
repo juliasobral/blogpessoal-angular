@@ -8,4 +8,5 @@ export class Postagem{
     public data: Date
     public usuario: User
     public tema: Tema
+  criador: User
 }
